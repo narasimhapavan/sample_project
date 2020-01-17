@@ -1,1 +1,3 @@
-Hello This file contains the deloyment script
+changed as per CR
+Hello This file contains the deloyment scrip
+
